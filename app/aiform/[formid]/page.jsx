@@ -49,7 +49,7 @@ function LiveAiForm({params}) {
          '
             href={'/'}
          >
-            <Image src={'/logo.png'} width={26} height={26} />
+            <Image src="https://img.freepik.com/premium-vector/simple-lineart-initial-fa-icon-logo_702572-85.jpg?w=360" />
             Build your Own AI form
         </Link>
     </div>
