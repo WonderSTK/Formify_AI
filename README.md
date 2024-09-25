@@ -26,7 +26,7 @@ Formify AI is a powerful and user-friendly application that allows you to create
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/WonderSTK/Formify-AI
+   git clone https://github.com/WonderSTK/Formify_AI
    ```
 
 2. **Install Dependencies:**
