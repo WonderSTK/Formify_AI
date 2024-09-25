@@ -50,7 +50,7 @@ function LiveAiForm({params}) {
             href={'/'}
          >
             <Image src="https://img.freepik.com/premium-vector/simple-lineart-initial-fa-icon-logo_702572-85.jpg?w=360" />
-            Build your Own AI form
+            Build your Own AI form // Back to Home
         </Link>
     </div>
   )
